@@ -1,0 +1,12 @@
+org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class com.gl.trans.model.Vehicle.vehicleCapacity] of primitive type setter of com.gl.trans.model.Vehicle.vehicleCapacity; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class com.gl.trans.model.Vehicle.vehicleCapacity] of primitive type setter of com.gl.trans.model.Vehicle.vehicleCapacity
+org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class com.gl.trans.model.Vehicle.vehicleCapacity] of primitive type setter of com.gl.trans.model.Vehicle.vehicleCapacity; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class com.gl.trans.model.Vehicle.vehicleCapacity] of primitive type setter of com.gl.trans.model.Vehicle.vehicleCapacity
+org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class com.gl.trans.model.Vehicle.vehicleCapacity] of primitive type setter of com.gl.trans.model.Vehicle.vehicleCapacity; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class com.gl.trans.model.Vehicle.vehicleCapacity] of primitive type setter of com.gl.trans.model.Vehicle.vehicleCapacity
+org.springframework.orm.jpa.JpaSystemException: Null value was assigned to a property [class com.gl.trans.model.Vehicle.vehicleCapacity] of primitive type setter of com.gl.trans.model.Vehicle.vehicleCapacity; nested exception is org.hibernate.PropertyAccessException: Null value was assigned to a property [class com.gl.trans.model.Vehicle.vehicleCapacity] of primitive type setter of com.gl.trans.model.Vehicle.vehicleCapacity
+java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
+java.lang.NullPointerException
