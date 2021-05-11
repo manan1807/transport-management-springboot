@@ -10,3 +10,4 @@ java.lang.NullPointerException
 java.lang.NullPointerException
 java.lang.NullPointerException
 java.lang.NullPointerException
+java.lang.NullPointerException: Cannot invoke "com.gl.trans.model.Employee.getPassword()" because "employee" is null

@@ -10163,3 +10163,11 @@ Pickup Time: 23:45:00}
 2021-02-15 14:58:09,813[yyyy-mm-dd HH-MM-SS] DEBUG 239
 2021-02-15 15:01:02,380[yyyy-mm-dd HH-MM-SS] DEBUG 239
 2021-02-15 15:13:22,845[yyyy-mm-dd HH-MM-SS] DEBUG 239
+2021-02-15 18:09:16,279[yyyy-mm-dd HH-MM-SS] DEBUG Not logged in
+2021-02-15 18:09:16,460[yyyy-mm-dd HH-MM-SS] DEBUG 123456789
+2021-02-15 18:09:16,461[yyyy-mm-dd HH-MM-SS] DEBUG manan@gmail.com
+2021-02-15 18:09:16,462[yyyy-mm-dd HH-MM-SS] DEBUG trying to find employee with email manan@gmail.com
+2021-02-15 18:09:19,381[yyyy-mm-dd HH-MM-SS] DEBUG got emp with email null
+2021-02-15 18:09:19,382[yyyy-mm-dd HH-MM-SS] ERROR java.lang.NullPointerException: Cannot invoke "com.gl.trans.model.Employee.getPassword()" because "employee" is null
+2021-02-15 18:09:19,444[yyyy-mm-dd HH-MM-SS] DEBUG CheckPassword ===================>false
+2021-02-15 18:09:19,445[yyyy-mm-dd HH-MM-SS] DEBUG Not logged in
